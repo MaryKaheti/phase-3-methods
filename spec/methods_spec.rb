@@ -51,4 +51,4 @@ describe '#halve' do
     expect(halve("six")).to be(nil)
   end
 
-end
+end 
